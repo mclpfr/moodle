@@ -14,4 +14,4 @@ docker cp moodle/backup-moodle2-course-59-d_-_module_12_-_docker,_docker_compose
 - cliquer sur create repository instance
 - Name : docker
 - Save
-- Site home -> retore -> choose file -> docker -> backup-moodle2-...
+- Site home -> retore -> choose file -> docker -> backup-moodle2-... -> Select this file -> restore
