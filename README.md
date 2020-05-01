@@ -9,3 +9,9 @@ docker cp moodle/backup-moodle2-course-59-d_-_module_12_-_docker,_docker_compose
 - Administration > Site administration > Plugins > Repositories > Manage Repositories;
 - Select from the drop down next to File system "Enabled and visible"
 - settings link
+- cocher Allow admins to add a file system repository instance to a course (configurable only by admins)
+- cocher Allow admins to add a file system repository instance for personal use (configurable only by admins)
+- cliquer sur create repository instance
+- Name : docker
+- Save
+- Site home -> retore -> choose file -> docker -> backup-moodle2-...
