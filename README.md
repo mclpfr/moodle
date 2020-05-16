@@ -2,7 +2,7 @@
 - Cliquer sur login :
 
 
-![login](./images/moodle1.png)
+![login](./images/moodle1.png?style=centerme)
 
 - Se connecter avec le compte user , mot de passe bitnami :
 
