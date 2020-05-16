@@ -14,11 +14,10 @@
 
 ![admin](./images/moodle3.png)
 
-![site_admin](./images/moodle3.png)
+![site_admin](./images/moodle4.png)
 
-![plugin](./images/moodle4.png)
+![plugin](./images/moodle5.png)
 
-![repo](./images/moodle5.png)
 
 - Select from the drop down next to File system "Enabled and visible"
 - settings link
