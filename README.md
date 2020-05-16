@@ -1,8 +1,7 @@
 
 - Cliquer sur login :
 
-
-![login](./images/moodle1.png){ style="display: block; margin: 0 auto" }
+![login](./images/moodle1.png)
 
 - Se connecter avec le compte user , mot de passe bitnami :
 
