@@ -1,4 +1,8 @@
 
+Se connecter à Katacoda 
+
+git clone 
+
 - Cliquer sur login :
 
 ![login](./images/moodle1.png)
