@@ -1,7 +1,11 @@
 
 Se connecter à [Katacoda](https://www.katacoda.com/courses/ubuntu/playground)
 
-git clone https://github.com/mclpfr/moodle.git
+```bash
+$ git clone https://github.com/mclpfr/moodle.git
+$ cd moodle/
+$ bash setup.sh
+```
 
 - Cliquer sur login :
 
