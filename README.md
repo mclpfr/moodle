@@ -10,7 +10,16 @@
 ![user](./images/moodle2.png)
 
 
-- Administration > Site administration > Plugins > Repositories > Manage Repositories;
+- Aller dans Administration > Site administration > Plugins > Repositories > Manage Repositories;
+
+![admin](./images/moodle3.png)
+
+![site_admin](./images/moodle3.png)
+
+![plugin](./images/moodle4.png)
+
+![repo](./images/moodle5.png)
+
 - Select from the drop down next to File system "Enabled and visible"
 - settings link
 - cocher Allow admins to add a file system repository instance to a course (configurable only by admins)
