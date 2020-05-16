@@ -27,12 +27,10 @@
 
 ![moodle7](./images/moodle7.png)
 
+- Aller dans **"Settings"**
+
 ![moodle8](./images/moodle8.png)
 
-- Select from the drop down next to File system "Enabled and visible"
-- settings link
-- cocher Allow admins to add a file system repository instance to a course (configurable only by admins)
-- cocher Allow admins to add a file system repository instance for personal use (configurable only by admins)
 - cliquer sur create repository instance
 - Name : docker
 - SaveRestore as a new course
