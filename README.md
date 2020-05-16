@@ -23,6 +23,8 @@
 
 ![moodle6](./images/moodle6.png)
 
+- Cocher toutes les cases et **"Save"**
+
 ![moodle7](./images/moodle7.png)
 
 ![moodle8](./images/moodle8.png)
