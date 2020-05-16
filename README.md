@@ -17,7 +17,13 @@
 
 - **Repositories** > **Manage Repositories**;
 
-![plugin](./images/moodle5.png)
+![moodle5](./images/moodle5.png)
+
+![moodle6](./images/moodle6.png)
+
+![moodle7](./images/moodle7.png)
+
+![moodle8](./images/moodle8.png)
 
 - Select from the drop down next to File system "Enabled and visible"
 - settings link
