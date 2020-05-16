@@ -1,8 +1,12 @@
 
+Cliquer sur login :
+
 ![login](./images/moodle1.png)
 
-user: usr
-password : bitnami
+Se connecter avec le compte user , mot de passe bitnami :
+
+![user](./images/moodle2.png)
+
 
 
 - Administration > Site administration > Plugins > Repositories > Manage Repositories;
