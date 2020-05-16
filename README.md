@@ -3,19 +3,19 @@
 
 ![login](./images/moodle1.png)
 
-- Se connecter avec le compte user , mot de passe bitnami :
+- Se connecter avec le compte **user** , mot de passe **bitnami** :
 
 ![user](./images/moodle2.png)
 
-- Aller dans Site administration 
+- Aller dans **Site administration** : 
 
 ![admin](./images/moodle3.png)
 
-- Plugins 
+- **Plugins** 
 
 ![site_admin](./images/moodle4.png)
 
-- Repositories > Manage Repositories;
+- **Repositories** > **Manage Repositories**;
 
 ![plugin](./images/moodle5.png)
 
