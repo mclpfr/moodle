@@ -6,18 +6,19 @@
 
 - Se connecter avec le compte user , mot de passe bitnami :
 
-
 ![user](./images/moodle2.png)
 
-
-- Aller dans Administration > Site administration > Plugins > Repositories > Manage Repositories;
+- Aller dans Site administration 
 
 ![admin](./images/moodle3.png)
 
+- Plugins 
+
 ![site_admin](./images/moodle4.png)
 
-![plugin](./images/moodle5.png)
+- Repositories > Manage Repositories;
 
+![plugin](./images/moodle5.png)
 
 - Select from the drop down next to File system "Enabled and visible"
 - settings link
