@@ -19,6 +19,8 @@
 
 ![moodle5](./images/moodle5.png)
 
+- Choisir **"Enabled and visible"** dans section **"File system"**
+
 ![moodle6](./images/moodle6.png)
 
 ![moodle7](./images/moodle7.png)
