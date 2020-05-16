@@ -3,7 +3,7 @@
 
 ![login](./images/moodle1.png)
 
-- Se connecter avec le compte user , mot de passe bitnami :+1
+- Se connecter avec le compte user , mot de passe bitnami :
 
 ![user](./images/moodle2.png)
 
