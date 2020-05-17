@@ -59,11 +59,9 @@ $ bash setup.sh
 
 ![moodle8](./images/moodle11.png)
 
-- Aller dans **"Site home"**
+- A droite de l'écran, cliquer sur le triangle et choisir **"Restore"**
 
 ![moodle8](./images/moodle12.png)
-
-- A droite de l'écran, cliquer sur le triangle et choisir **"restore"**
 
 ![moodle8](./images/moodle13.png)
 
