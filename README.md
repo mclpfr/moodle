@@ -7,9 +7,9 @@ $ git clone https://github.com/mclpfr/moodle.git
 $ cd moodle/
 $ bash setup.sh
 ```
-- Atendre la fin du déploiement :
+- Attendre la fin du déploiement :
 
-![moodle0](./images/moodle0.png)
+![moodle0](./images/moodle0.0.png)
 
 - Cliquer sur **"+"** et choisir **"View HTTP port 80 on host 1"** :
 
