@@ -31,31 +31,31 @@ $ bash setup.sh
 
 ![site_admin](./images/moodle4.png)
 
-- **Repositories** > **Manage Repositories**;
+- **Repositories** > **Manage Repositories** :
 
 ![moodle5](./images/moodle5.png)
 
-- Choisir **"Enabled and visible"** dans la section **"File system"**
+- Choisir **"Enabled and visible"** dans la section **"File system"** :
 
 ![moodle6](./images/moodle6.png)
 
-- Cocher toutes les cases et **"Save"**
+- Cocher toutes les cases et **"Save"** :
 
 ![moodle7](./images/moodle7.png)
 
-- Aller dans **"Settings"** dans la section **"File system"**
+- Aller dans **"Settings"** dans la section **"File system"** :
 
 ![moodle8](./images/moodle8.png)
 
-- Cliquer **"Create a repository instance"**
+- Cliquer **"Create a repository instance"** :
 
 ![moodle8](./images/moodle9.png)
 
-- Taper **docker** dans le champ **Name** et cliquer sur **"Save"** 
+- Taper **docker** dans le champ **Name** et cliquer sur **"Save"** :
 
 ![moodle8](./images/moodle10.png)
 
-- Aller dans **"Site home"**
+- Aller dans **"Site home"** :
 
 ![moodle8](./images/moodle11.png)
 
@@ -71,7 +71,11 @@ $ bash setup.sh
 
 ![moodle8](./images/moodle14.png)
 
+- Selectionner le fichier **"backup-moodle2-..."** :
+
 ![moodle8](./images/moodle15.png)
+
+- Cliquer sur **"Select this file"** :
 
 ![moodle8](./images/moodle16.png)
 
