@@ -8,17 +8,8 @@ $ cd moodle/
 $ bash setup.sh
 ```
 - Attendre la fin du déploiement :
-<div align=“center”>
-<div markdown=“1”>
-# Some markdown syntax here and/or use images:
-![](001.jpg)
-![](002.jpg)
-
 
 ![moodle0](./images/moodle0.png) 
-
-</div>
-</div>
 
 - Cliquer sur **"+"** et choisir **"View HTTP port 80 on host 1"** :
 
