@@ -51,7 +51,7 @@ $ bash setup.sh
 
 ![moodle8](./images/moodle9.png)
 
-- Taper **Docker** dans le champ **Name** et **"Save"** 
+- Taper **docker** dans le champ **Name** et cliquer sur **"Save"** 
 
 ![moodle8](./images/moodle10.png)
 
@@ -63,7 +63,11 @@ $ bash setup.sh
 
 ![moodle8](./images/moodle12.png)
 
+- Cliquer sur **"Choose a file"** :
+
 ![moodle8](./images/moodle13.png)
+
+- Choisir **"docker"** :
 
 ![moodle8](./images/moodle14.png)
 
