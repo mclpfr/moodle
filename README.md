@@ -85,4 +85,4 @@ $ bash setup.sh
 
 ![moodle8](./images/moodle171.png)
 
-- En bas à drote de chaque page, cliquer sur **"Next"** -> **"Next"** -> **"Perform a restore**
+- En bas à droite de chaque page, cliquer sur **"Next"** -> **"Next"** -> **"Perform a restore**
