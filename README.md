@@ -8,6 +8,10 @@ $ cd moodle/
 $ bash setup.sh
 ```
 
+- Cliquer sur **"+"** et choisir **"View HTTP port 80 on host 1"** :
+
+![moodle0](./images/moodle0.png)
+
 - Cliquer sur login :
 
 ![login](./images/moodle1.png)
