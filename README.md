@@ -81,8 +81,8 @@ $ bash setup.sh
 
 - En bas a droite de la page, cliquer sur **"Continue"** :
 
-- Dans la section **"Restore a new course"**, cliquer sur **"Miscellaneous"** et sur **"Continue"** :
+- Dans la section **"Restore a new course"**, cocher **"Miscellaneous"** et sur **"Continue"** :
 
 ![moodle8](./images/moodle171.png)
 
-- Site home -> retore -> choose file -> docker -> backup-moodle2-... -> Select this file -> restore -> continue -> Restore as a new course -> continu -> Next -> Next -> perform a retore -> continue
+- En bas à drote de chaque page, cliquer sur **"Next"** -> **"Next"** -> **"Perform a restore**
