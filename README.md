@@ -79,7 +79,10 @@ $ bash setup.sh
 
 ![moodle8](./images/moodle16.png)
 
-- cliquer sur create repository instance
-- Name : docker
-- SaveRestore as a new course
+- En bas a droite de la page, cliquer sur **"Continue"** :
+
+- Dans la section **"Restore a new course"**, cliquer sur **"Miscellaneous"** et sur **"Continue"** :
+
+![moodle8](./images/moodle17.png)
+
 - Site home -> retore -> choose file -> docker -> backup-moodle2-... -> Select this file -> restore -> continue -> Restore as a new course -> continu -> Next -> Next -> perform a retore -> continue
