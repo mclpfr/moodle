@@ -47,7 +47,11 @@ $ bash setup.sh
 
 ![moodle8](./images/moodle8.png)
 
+- Cliquer **"Create a repository instance"**
+
 ![moodle8](./images/moodle9.png)
+
+- Taper **Docker** dans le champ **Name** et **"Save"** 
 
 ![moodle8](./images/moodle10.png)
 
