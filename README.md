@@ -13,7 +13,7 @@ $ bash setup.sh
 
 - Cliquer sur **"+"** et choisir **"View HTTP port 80 on host 1"** :
 
-![moodle0.1](./images/moodle0.5.png)
+![moodle0.1](./images/moodle0.1.png)
 
 - Cliquer sur login :
 
