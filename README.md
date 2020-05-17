@@ -35,7 +35,7 @@ $ bash setup.sh
 
 ![moodle5](./images/moodle5.png)
 
-- Choisir **"Enabled and visible"** dans section **"File system"**
+- Choisir **"Enabled and visible"** dans la section **"File system"**
 
 ![moodle6](./images/moodle6.png)
 
@@ -43,7 +43,7 @@ $ bash setup.sh
 
 ![moodle7](./images/moodle7.png)
 
-- Aller dans **"Settings"**
+- Aller dans **"Settings"** dans la section **"File system"**
 
 ![moodle8](./images/moodle8.png)
 
@@ -55,9 +55,15 @@ $ bash setup.sh
 
 ![moodle8](./images/moodle10.png)
 
+- Aller dans **"Site home"**
+
 ![moodle8](./images/moodle11.png)
 
+- Aller dans **"Site home"**
+
 ![moodle8](./images/moodle12.png)
+
+- A droite de l'écran, cliquer sur le triangle et choisir **"restore"**
 
 ![moodle8](./images/moodle13.png)
 
