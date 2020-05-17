@@ -50,6 +50,12 @@ $ bash setup.sh
 ![moodle8](./images/moodle9.png)
 
 ![moodle8](./images/moodle10.png)
+
+![moodle8](./images/moodle11.png)
+
+![moodle8](./images/moodle12.png)
+
+![moodle8](./images/moodle13.png)
 - cliquer sur create repository instance
 - Name : docker
 - SaveRestore as a new course
