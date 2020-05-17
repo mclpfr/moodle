@@ -86,3 +86,9 @@ $ bash setup.sh
 ![moodle8](./images/moodle171.png)
 
 - En bas à droite de chaque page, cliquer sur **"Next"** -> **"Next"** -> **"Perform a restore**
+
+- Cliquer sur **"Continue"** :
+
+![moodle8](./images/moodle181.png)
+
+- La formation **docker** est disponible
