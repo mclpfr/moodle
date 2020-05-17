@@ -71,11 +71,11 @@ $ bash setup.sh
 
 ![moodle8](./images/moodle14.png)
 
-- Selectionner le fichier **"backup-moodle2-..."** :
+- Cliquer sur **"Select this file"** :
 
 ![moodle8](./images/moodle15.png)
 
-- Cliquer sur **"Select this file"** :
+- Cliquer sur **"Restore"** :
 
 ![moodle8](./images/moodle16.png)
 
