@@ -67,7 +67,7 @@ $ bash setup.sh
 
 ![moodle8](./images/moodle13.png)
 
-- Choisir **"docker"** :
+- Choisir **"docker"** et selectionner le fichier **"backup-moodle2-..."** :
 
 ![moodle8](./images/moodle14.png)
 
