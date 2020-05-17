@@ -79,13 +79,13 @@ $ bash setup.sh
 
 ![moodle8](./images/moodle16.png)
 
-- En bas a droite de la page, cliquer sur **"Continue"** :
+- En bas à droite de la page, cliquer sur **"Continue"** :
 
 - Dans la section **"Restore a new course"**, cocher **"Miscellaneous"** et sur **"Continue"** :
 
 ![moodle8](./images/moodle171.png)
 
-- En bas à droite de chaque page, cliquer sur **"Next"** -> **"Next"** -> **"Perform a restore**
+- En bas à droite de chaque page, cliquer sur **"Next"** ensuite **"Next"** puis **"Perform a restore**
 
 - Cliquer sur **"Continue"** :
 
