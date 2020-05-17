@@ -10,6 +10,7 @@ $ bash setup.sh
 - Attendre la fin du déploiement :
 
 ![moodle0](./images/moodle0.png) 
+<div style="text-align:center"><img src=./images/moodle0.png" /></div>
 
 - Cliquer sur **"+"** et choisir **"View HTTP port 80 on host 1"** :
 
