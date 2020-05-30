@@ -1,12 +1,9 @@
 ### Formation Docker
 
-Se connecter à [Katacoda](https://www.katacoda.com/courses/ubuntu/playground)
+Se connecter à [Katacoda](https://www.katacoda.com/linagora/scenarios/docker-training)
 
-```bash
-$ git clone https://github.com/mclpfr/moodle.git
-$ cd moodle/
-$ bash setup.sh
-```
+- Cliquer sur le boutton **"Start scenarios"**
+
 - Attendre la fin du déploiement :
 
 ![moodle0](./images/moodle0.png) 
