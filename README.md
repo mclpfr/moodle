@@ -4,9 +4,11 @@ Se connecter à [Katacoda](https://www.katacoda.com/linagora/scenarios/docker-tr
 
 - Cliquer sur le boutton **"Start scenarios"**
 
+![moodle0](./images/preconf0.png) 
+
 - Attendre la fin du déploiement :
 
-![moodle0](./images/moodle0.png) 
+![moodle0](./images/preconf1.png) 
 
 - Cliquer sur l'onglet **"moodle"** :
 
