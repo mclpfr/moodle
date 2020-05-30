@@ -26,11 +26,11 @@ Se connecter à [Katacoda](https://www.katacoda.com/linagora/scenarios/docker-tr
 
 ![admin](./images/moodle3.png)
 
-- **Plugins** 
+- Aller dans **Plugins** 
 
 ![site_admin](./images/moodle4.png)
 
-- **Repositories** > **Manage Repositories** :
+- Aller dans **Repositories** > **Manage Repositories** :
 
 ![moodle5](./images/moodle5.png)
 
