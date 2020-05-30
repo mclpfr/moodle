@@ -8,7 +8,7 @@ Se connecter à [Katacoda](https://www.katacoda.com/linagora/scenarios/docker-tr
 
 ![moodle0](./images/moodle0.png) 
 
-- Cliquer sur **"+"** et choisir **"View HTTP port 80 on host 1"** :
+- Cliquer sur l'onglet **"moodle"** :
 
 ![moodle0.1](./images/moodle0.1.png)
 
