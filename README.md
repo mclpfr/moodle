@@ -2,7 +2,7 @@
 
 Se connecter à [Katacoda](https://www.katacoda.com/linagora/scenarios/docker-training)
 
-- Cliquer sur le boutton **"Start scenarios"**
+- Cliquer sur le boutton **"Start scenarios"** :
 
 ![moodle0](./images/preconf0.png) 
 
@@ -12,7 +12,7 @@ Se connecter à [Katacoda](https://www.katacoda.com/linagora/scenarios/docker-tr
 
 - Cliquer sur l'onglet **"moodle"** :
 
-![moodle0.1](./images/moodle0.1.png)
+![moodle0.1](./images/preconf2.png)
 
 - Cliquer sur login :
 
