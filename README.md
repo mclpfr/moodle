@@ -14,7 +14,7 @@ Se connecter à [Katacoda](https://www.katacoda.com/linagora/scenarios/docker-tr
 
 ![moodle0.1](./images/preconf2.png)
 
-- Cliquer sur login :
+- Cliquer sur **"log in"** :
 
 ![login](./images/moodle1.png)
 
