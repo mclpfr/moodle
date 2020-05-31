@@ -55,6 +55,7 @@ Se connecter à [Katacoda](https://www.katacoda.com/linagora/scenarios/docker-tr
 <p align="center">
   <img src="./images/moodle6.png">
 </p>
+
 - Cocher toutes les cases et **"Save"** :
 
 <p align="center">
