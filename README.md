@@ -101,24 +101,33 @@ Se connecter à [Katacoda](https://www.katacoda.com/linagora/scenarios/docker-tr
 <p align="center">
   <img src="./images/moodle14.png">
 </p>
+
 - Cliquer sur **"Select this file"** :
 
-![moodle8](./images/moodle15.png)
+<p align="center">
+  <img src="./images/moodle15.png">
+</p>
 
 - Cliquer sur **"Restore"** :
 
-![moodle8](./images/moodle16.png)
+<p align="center">
+  <img src="./images/moodle16.png">
+</p>
 
 - En bas à droite de la page, cliquer sur **"Continue"** :
 
 - Dans la section **"Restore a new course"**, cocher **"Miscellaneous"** et sur **"Continue"** :
 
-![moodle8](./images/moodle171.png)
+<p align="center">
+  <img src="./images/moodle171.png">
+</p>
 
 - En bas à droite de chaque page, cliquer sur **"Next"** ensuite **"Next"** puis **"Perform a restore"**
 
 - Cliquer sur **"Continue"** :
 
-![moodle8](./images/moodle181.png)
+<p align="center">
+  <img src="./images/moodle181.png">
+</p>
 
 - La formation **docker** est disponible
