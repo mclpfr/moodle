@@ -8,11 +8,11 @@ Se connecter à [Katacoda](https://www.katacoda.com/linagora/scenarios/docker-tr
   <img src="./images/preconf0.png">
 </p>
 
-![moodle0](./images/preconf0.png) 
-
 - Attendre la fin du déploiement :
 
-![moodle0](./images/preconf1.png) 
+<p align="center">
+  <img src="./images/preconf1.png">
+</p>
 
 - Cliquer sur l'onglet **"moodle"** :
 
