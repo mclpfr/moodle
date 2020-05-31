@@ -11,6 +11,8 @@ services:
   moodle:
     image: 'bitnami/moodle:3'
     environment:
+      - MOODLE_USERNAME=docker
+      - MOODLE_PASSWORD=docker
       - MARIADB_HOST=mariadb
       - MARIADB_PORT_NUMBER=3306
       - MOODLE_DATABASE_USER=bn_moodle
