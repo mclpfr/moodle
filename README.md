@@ -34,52 +34,73 @@ Se connecter à [Katacoda](https://www.katacoda.com/linagora/scenarios/docker-tr
 
 - Aller dans **Site administration** : 
 
-![admin](./images/moodle3.png)
+<p align="center">
+  <img src="./images/moodle3.png">
+</p>
 
 - Aller dans **Plugins** 
 
-![site_admin](./images/moodle4.png)
+<p align="center">
+  <img src="./images/moodle4.png">
+</p>
 
 - Aller dans **Repositories** > **Manage Repositories** :
 
-![moodle5](./images/moodle5.png)
+<p align="center">
+  <img src="./images/moodle5.png">
+</p>
 
 - Choisir **"Enabled and visible"** dans la section **"File system"** :
 
-![moodle6](./images/moodle6.png)
-
+<p align="center">
+  <img src="./images/moodle6.png">
+</p>
 - Cocher toutes les cases et **"Save"** :
 
-![moodle7](./images/moodle7.png)
+<p align="center">
+  <img src="./images/moodle7.png">
+</p>
 
 - Aller dans **"Settings"** dans la section **"File system"** :
 
-![moodle8](./images/moodle8.png)
+<p align="center">
+  <img src="./images/moodle8.png">
+</p>
 
 - Cliquer **"Create a repository instance"** :
 
-![moodle8](./images/moodle9.png)
+<p align="center">
+  <img src="./images/moodle9.png">
+</p>
 
 - Taper **docker** dans le champ **Name** et cliquer sur **"Save"** :
 
-![moodle8](./images/moodle10.png)
+<p align="center">
+  <img src="./images/moodle10.png">
+</p>
 
 - Aller dans **"Site home"** :
 
-![moodle8](./images/moodle11.png)
+<p align="center">
+  <img src="./images/moodle11.png">
+</p>
 
 - A droite de l'écran, cliquer sur le triangle et choisir **"Restore"**
 
-![moodle8](./images/moodle12.png)
+<p align="center">
+  <img src="./images/moodle12.png">
+</p>
 
 - Cliquer sur **"Choose a file"** :
 
-![moodle8](./images/moodle13.png)
-
+<p align="center">
+  <img src="./images/moodle13.png">
+</p>
 - Choisir **"docker"** et selectionner le fichier **"backup-moodle2-..."** :
 
-![moodle8](./images/moodle14.png)
-
+<p align="center">
+  <img src="./images/moodle14.png">
+</p>
 - Cliquer sur **"Select this file"** :
 
 ![moodle8](./images/moodle15.png)
