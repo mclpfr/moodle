@@ -32,8 +32,6 @@ Se connecter à [Katacoda](https://www.katacoda.com/linagora/scenarios/docker-tr
   <img src="./images/moodle2.png">
 </p>
 
-![user](./images/moodle2.png)
-
 - Aller dans **Site administration** : 
 
 ![admin](./images/moodle3.png)
