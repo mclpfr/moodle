@@ -16,11 +16,15 @@ Se connecter à [Katacoda](https://www.katacoda.com/linagora/scenarios/docker-tr
 
 - Cliquer sur l'onglet **"moodle"** :
 
-![moodle0.1](./images/preconf2.png)
+<p align="center">
+  <img src="./images/preconf2.png">
+</p>
 
 - Cliquer sur **"log in"** :
 
-![login](./images/moodle1.png)
+<p align="center">
+  <img src="./images/moodle1.png">
+</p>
 
 - Se connecter avec le compte **user** , mot de passe **"bitnami"** :
 
