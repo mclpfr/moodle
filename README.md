@@ -20,7 +20,7 @@ Se connecter à [Katacoda](https://www.katacoda.com/linagora/scenarios/docker-tr
   <img src="./images/preconf2.png">
 </p>
 
-- Cliquer sur **"log in"** :
+- Cliquer sur **"D - Module 12 - Docker"** :
 
 <p align="center">
   <img src="./images/moodle1.png">
