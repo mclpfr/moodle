@@ -26,7 +26,7 @@ Se connecter à [Katacoda](https://www.katacoda.com/linagora/scenarios/docker-tr
   <img src="./images/moodle1.png">
 </p>
 
-- Se connecter avec le compte **user** , mot de passe **"bitnami"** :
+- Se connecter avec le compte **docker** , mot de passe **"docker"** :
 
 <p align="center">
   <img src="./images/moodle2.png">
