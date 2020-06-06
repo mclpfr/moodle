@@ -9,7 +9,7 @@ services:
     volumes:
       - 'mariadb_data:/bitnami'
   moodle:
-    image: 'bitnami/moodle:3'
+    image: 'bitnami/moodle:3.7.0'
     environment:
       - MOODLE_USERNAME=docker
       - MOODLE_PASSWORD=docker
@@ -22,7 +22,7 @@ services:
       - '80:80'
       - '443:443'
     volumes:
-      - 'moodle_data:/bitnami:3.7.0'
+      - 'moodle_data:/bitnami'
     depends_on:
       - mariadb
 volumes:
