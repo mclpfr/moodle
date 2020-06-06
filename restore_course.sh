@@ -11,6 +11,5 @@ sudo -u bitnami moosh course-restore backup-moodle2-course-59-d_-_module_12_-_do
 rm -rf /bitnami/moodle/moodledata/lock/*
  
 cd /bitnami/moodle/filter
-wget https://moodle.org/plugins/download.php/16971/filter_syntaxhighlighter_moodle37_2018041301.zip
-unzip filter_syntaxhighlighter_moodle37_2018041301.zip
+moosh -n plugin-install filter_syntaxhighlighter
 chown -R bitnami:daemon syntaxhighlighter
