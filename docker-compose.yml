@@ -9,7 +9,7 @@ services:
     volumes:
       - 'mariadb_data:/bitnami'
   moodle:
-    image: 'bitnami/moodle:3.7.3'
+    image: 'bitnami/moodle:3.7.2'
     environment:
       - MOODLE_USERNAME=docker
       - MOODLE_PASSWORD=docker
