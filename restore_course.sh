@@ -10,8 +10,10 @@ chown bitnami:daemon ../../*
 sudo -u bitnami moosh course-restore backup-moodle2-course-59-d_-_module_12_-_docker-20200513-0726.mbz 1
 rm -rf /bitnami/moodle/moodledata/lock/*
 
+cd /bitnami/moodle/filter
 sudo -u bitnami moosh -n plugin-list
 sudo -u bitnami moosh -n plugin-install filter_syntaxhighlighter
+chown -R bitnami:daemon syntaxhighlighter/
  
 #cd /bitnami/moodle/filter
 #moosh -n plugin-install filter_syntaxhighlighter
