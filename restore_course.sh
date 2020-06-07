@@ -11,7 +11,7 @@ sudo -u bitnami moosh course-restore backup-moodle2-course-59-d_-_module_12_-_do
 rm -rf /bitnami/moodle/moodledata/lock/*
 
 sudo -u bitnami moosh -n plugin-list
-moosh -n plugin-install filter_syntaxhighlighter
+sudo -u bitnami moosh -n plugin-install filter_syntaxhighlighter
  
 #cd /bitnami/moodle/filter
 #moosh -n plugin-install filter_syntaxhighlighter
