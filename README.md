@@ -56,6 +56,18 @@ Se connecter à [Katacoda](https://www.katacoda.com/linagora/scenarios/docker-tr
   <img src="./images/high4.png">
 </p>
 
+- Cliquer sur **Site home** 
+
+<p align="center">
+  <img src="./images/high5.png">
+</p>
+
+- Cliquer sur le moddule 
+
+<p align="center">
+  <img src="./images/high6.png">
+</p>
+
 - Se module se compose de 5 chapitres et chaque chapitre se décompose en 3 parties (cours,exercices,quiz)
 
 - Se connecter à [Play with Docker](https://labs.play-with-docker.com/) pour réaliser les exercices .
