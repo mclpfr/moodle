@@ -32,6 +32,30 @@ Se connecter à [Katacoda](https://www.katacoda.com/linagora/scenarios/docker-tr
   <img src="./images/moodle2.png">
 </p>
 
+- Cliquer sur **Site administrztion** 
+
+<p align="center">
+  <img src="./images/high1.png">
+</p>
+
+- Cliquer sur **Update Moodle database now** 
+
+<p align="center">
+  <img src="./images/high2.png">
+</p>
+
+- Cliquer sur **Continue** 
+
+<p align="center">
+  <img src="./images/high3.png">
+</p>
+
+- Cliquer sur **Save Changes** 
+
+<p align="center">
+  <img src="./images/high4.png">
+</p>
+
 - Se module se compose de 5 chapitres et chaque chapitre se décompose en 3 parties (cours,exercices,quiz)
 
 - Se connecter à [Play with Docker](https://labs.play-with-docker.com/) pour réaliser les exercices .
