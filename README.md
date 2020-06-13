@@ -50,7 +50,7 @@ Se connecter à [Katacoda](https://www.katacoda.com/linagora/scenarios/docker-tr
   <img src="./images/high3.png">
 </p>
 
-- Cliquer sur **Save Changes** : 
+- Cliquer sur **Save changes** : 
 
 <p align="center">
   <img src="./images/high4.png">
