@@ -14,3 +14,4 @@ cd /bitnami/moodle/filter
 wget https://moodle.org/plugins/download.php/16971/filter_syntaxhighlighter_moodle37_2018041301.zip
 unzip filter_syntaxhighlighter_moodle37_2018041301.zip
 chown -R bitnami:daemon syntaxhighlighter
+ping 127.0.0.1
