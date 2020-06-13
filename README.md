@@ -62,7 +62,7 @@ Se connecter à [Katacoda](https://www.katacoda.com/linagora/scenarios/docker-tr
   <img src="./images/high1.png">
 </p>
 
-- Aller dans l'onglet **Plugin** puis **Mange filters** :
+- Aller dans l'onglet **Plugin** puis **Manage filters** :
 
 <p align="center">
   <img src="./images/manage_filters.png">
@@ -83,9 +83,9 @@ Se connecter à [Katacoda](https://www.katacoda.com/linagora/scenarios/docker-tr
 - Cliquer sur **"D - Module 12 - Docker"** :
 
 <p align="center">
-  <img src="./images/preconf2.png">
+  <img src="./images/moodle1.png">
 </p>
 
 - Se module se compose de 5 chapitres et chaque chapitre se décompose en 3 parties (cours,exercices,quiz)
 
-- Se connecter à [Play with Docker](https://labs.play-with-docker.com/) pour réaliser les exercices .
+- Utiliser Virtualbox ou se connecter à [Play with Docker](https://labs.play-with-docker.com/) pour réaliser les exercices .
