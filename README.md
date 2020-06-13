@@ -88,4 +88,4 @@ Se connecter à [Katacoda](https://www.katacoda.com/linagora/scenarios/docker-tr
 
 - Se module se compose de 5 chapitres et chaque chapitre se décompose en 3 parties (cours,exercices,quiz)
 
-- Se connecter à [Play with Docker](https://labs.play-with-docker.com/) pour réaliser les exercices .
+- Utiliser Virtualbox ou se connecter à [Play with Docker](https://labs.play-with-docker.com/) pour réaliser les exercices .
