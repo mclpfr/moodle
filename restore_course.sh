@@ -7,11 +7,13 @@ cd moosh
 ln -s $PWD/moosh.php /usr/local/bin/moosh
 cd /bitnami/moodle/moodledata/repository/docker
 chown bitnami:daemon ../../*
-sudo -u bitnami moosh course-restore backup-moodle2-course-59-d_-_module_12_-_docker-20200513-0726.mbz 1
+sudo -u bitnami moosh course-restore backup-moodle2-course-2-d_-_module_12_-_docker-20200613-1058.mbz 1
 rm -rf /bitnami/moodle/moodledata/lock/*
 
 cd /bitnami/moodle/filter
 wget https://moodle.org/plugins/download.php/16971/filter_syntaxhighlighter_moodle37_2018041301.zip
 unzip filter_syntaxhighlighter_moodle37_2018041301.zip
 chown -R bitnami:daemon syntaxhighlighter
-ping 127.0.0.1
+
+apt-get install iputils-ping -y
+ping 127.0.0.1 &
