@@ -16,3 +16,4 @@ unzip filter_syntaxhighlighter_moodle37_2018041301.zip
 chown -R bitnami:daemon syntaxhighlighter
 
 apt-get install iputils-ping -y
+ping 127.0.0.1
