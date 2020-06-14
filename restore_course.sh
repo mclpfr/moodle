@@ -7,7 +7,7 @@ cd moosh
 ln -s $PWD/moosh.php /usr/local/bin/moosh
 cd /bitnami/moodle/moodledata/repository/docker
 chown bitnami:daemon ../../*
-sudo -u bitnami moosh course-restore backup-moodle2-course-2-d_-_module_12_-_docker-20200613-1457.mbz 1
+sudo -u bitnami moosh course-restore backup-moodle2-course-2-d_-_module_12_-_docker-20200614-0905.mbz 1
 rm -rf /bitnami/moodle/moodledata/lock/*
 
 cd /bitnami/moodle/filter
